@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: miniFan.PcbDoc   31-Aug-15  12:26:34 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : miniFan.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.6mm (23.622mil)        Round          2                13.00 mm (0.51 Inch)
+T2        0.7112mm (28mil)         Round          2                7.06 mm (0.28 Inch)
+T3        0.9mm (35.433mil)        Round          12               27.94 mm (1.10 Inch)
+T4        0.9144mm (36mil)         Round          8                22.86 mm (0.90 Inch)
+T5        1.016mm (40mil)          Round          2                2.54 mm (0.10 Inch)
+T6        1.3208mm (52mil)         Round          2                3.81 mm (0.15 Inch)
+---------------------------------------------------------------------------
+Totals                                            28               77.21 mm (3.04 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

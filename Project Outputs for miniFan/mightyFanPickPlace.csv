@@ -1,0 +1,20 @@
+Designator,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,Comment
+,,,,,,,,,,
+D2,SOD323,8.5mm,8mm,8.5mm,8mm,8.5mm,6.75mm,T,270,DIODE_75V_500mW
+D1,SOD323,7.205mm,3.5mm,7.205mm,3.5mm,7.205mm,2.25mm,T,270,DIODE_75V_500mW
+R2,RESC1608X55N,8.75mm,15.75mm,8.75mm,15.75mm,8.75mm,14.9mm,T,90,Thick Film
+R1,RESC1608X55N,8.5mm,11.25mm,8.5mm,11.25mm,8.5mm,10.4mm,T,90,Thick Film
+LED2,LED-0603-RED,13.73mm,7.83mm,13.73mm,7.83mm,13.73mm,8.68mm,T,270,Red
+LED1,LED-0603-RED,11.19mm,7.83mm,11.19mm,7.83mm,11.19mm,8.68mm,T,270,Red
+P1,2X4,15mm,3.25mm,15mm,3.25mm,18.81mm,4.52mm,T,180,Header 4X2
+Q1,SOIC127P600X175-8AN,4.5mm,7mm,4.5mm,7mm,2.595mm,9.7mm,B,270,MOSFET_AO4818B
+D3,SOD323,21.5mm,8mm,21.5mm,8mm,21.5mm,6.75mm,T,270,DIODE_75V_500mW
+D4,SOD323,22mm,3.5mm,22mm,3.5mm,22mm,2.25mm,T,270,DIODE_75V_500mW
+LED3,LED-0603-RED,16.27mm,7.83mm,16.27mm,7.83mm,16.27mm,8.68mm,T,270,Red
+LED4,LED-0603-RED,18.81mm,7.83mm,18.81mm,7.83mm,18.81mm,8.68mm,T,270,Red
+Q2,SOIC127P600X175-8AN,23mm,12.5mm,23mm,12.5mm,21.095mm,15.2mm,B,270,MOSFET_AO4818B
+R3,RESC1608X55N,21.5mm,15.75mm,21.5mm,15.75mm,21.5mm,16.6mm,T,270,Thick Film
+R4,RESC1608X55N,21.5mm,11.25mm,21.5mm,11.25mm,21.5mm,12.1mm,T,270,Thick Film
+P2,Header-3x2-female,12.27mm,13.46mm,13.54mm,16mm,13.54mm,16mm,B,180,Header 3X2
+P3,Header-3x2-female,17.35mm,13.46mm,18.62mm,16mm,18.62mm,16mm,B,180,Header 3X2
+J1,2P_PCB_ScrewTerm_90S_3.81MM,3.455mm,14.22mm,3.455mm,16.125mm,3.455mm,16.125mm,T,180,Stackable ScrewTerm

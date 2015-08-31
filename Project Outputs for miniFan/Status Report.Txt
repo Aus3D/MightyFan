@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [miniFan.PrjPCB]
+   Generated File[miniFan.GTL]
+   Generated File[miniFan.GBL]
+   Generated File[miniFan.GTO]
+   Generated File[miniFan.GTP]
+   Generated File[miniFan.GTS]
+   Generated File[miniFan.GBS]
+   Generated File[miniFan.GBP]
+   Generated File[miniFan.GBO]
+   Generated File[miniFan.GKO]
+   Generated File[miniFan.RUL]
+   Generated File[miniFan.EXTREP]
+   Generated File[miniFan.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 12:40:58 PM On 31-Aug-15
